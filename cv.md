@@ -54,4 +54,12 @@ Level: B1. I know basic phrases.
 ## Photo
 ![My Photo](photo/photo1.jpg)
 
+## Validity
+![W3C Validity](photo/photo2.png)
+*This page is validated by W3C standards.*
+
+---
+### Footer
+© 2024 Anton Homchenko. Created for "Web Programming Basics" course.
+
 
