@@ -48,7 +48,10 @@ Work experience
 
 My first CV project: Link to code
 
+## English language
+Level: B1. I know basic phrases.
 
-
+## Photo
+![My Photo](photo/photo1.jpg)
 
 
