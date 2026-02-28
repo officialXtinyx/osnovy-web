@@ -61,5 +61,3 @@ Level: B1. I know basic phrases.
 ---
 ### Footer
 © 2024 Anton Homchenko. Created for "Web Programming Basics" course.
-
-
