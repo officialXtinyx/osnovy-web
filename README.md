@@ -1,3 +1,3 @@
 # osnovy-web
 
-[Moе CV](https://officialxtinyx.github.io/osnovy-web/cv.md)
+[Moе CV](https://github.com/officialXtinyx/osnovy-web/blob/gh-pages/cv.md)
