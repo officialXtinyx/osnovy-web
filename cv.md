@@ -33,7 +33,7 @@ Knowledge of languages such as:
 
 
 
-\## Example code
+## Example code
 
 ```python
 
@@ -41,10 +41,11 @@ import math
 
 numb = int(input("Введите число: "))
 
-print(numb \* math.sqrt(numb))```
+print(numb * math.sqrt(numb))
+```
 
 
-Work experience
+##Work experience
 
 My first CV project: Link to code
 
