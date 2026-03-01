@@ -41,7 +41,7 @@ import math
 
 numb = int(input("Введите число: "))
 
-print(numb \* math.sqrt(numb))
+print(numb \* math.sqrt(numb))```
 
 
 Work experience
